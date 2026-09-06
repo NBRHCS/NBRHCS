@@ -16,45 +16,50 @@ Computer Science Student | Aspiring Data Analyst
 
 I'm **Muath Muslih Alharthi**, a Computer Science student at **Taif University** in Saudi Arabia 🇸🇦.
 
-I'm currently building my skills in **Data Analytics**, with a focus on turning raw data into meaningful insights that support better decisions.
+I'm currently focusing on **Data Analytics** and building my skills through courses, projects, and hands-on practice.
 
-* 🎓 Computer Science student at Taif University
-* 📊 Interested in Data Analytics & Business Intelligence
-* 🌱 Currently studying the **Google Data Analytics Professional Certificate**
-* 🧠 Learning more about **SQL, Python, Excel, and Power BI**
-* 📈 Interested in data visualization and data-driven decision making
-* 🚀 Building projects to strengthen my portfolio
-* 🎯 Goal: Start my career as a **Data Analyst / Junior Data Analyst**
+- 🎓 Computer Science student at Taif University
+- 📊 Interested in Data Analytics & Business Intelligence
+- 🌱 Currently studying the **Google Data Analytics Professional Certificate**
+- 🧠 Learning **Excel, SQL, Python, and Power BI**
+- 📈 Interested in data visualization and data-driven decision making
+- 🛠️ Building projects to improve my practical skills
+- 🚀 Preparing to launch my first public web project
+- 🎯 Goal: Start my career as a **Data Analyst / Junior Data Analyst**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Tools
 
 ### 📊 Data Analytics
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-* Microsoft Excel
-* SQL
-* Python
-* Power BI
-* Data Cleaning
-* Data Visualization
-* Exploratory Data Analysis
+- Microsoft Excel
+- SQL
+- Python
+- Power BI
+- Data Cleaning
+- Data Visualization
+- Exploratory Data Analysis
 
 ### 💻 Programming
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts" />
+  <img src="https://skillicons.dev/icons?i=python,java" />
 </p>
+
+- Python
+- Java
+- Basic programming concepts
 
 ### ⚙️ Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
+
+- Git
+- GitHub
+- Visual Studio Code
 
 ---
 
@@ -74,34 +79,39 @@ Google Data Analytics Professional Certificate
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 📊 Data Analysis Project
+### 🧠 Nawah
 
-> Coming soon...
+A public web project focused on making useful content easier to understand through summaries and organized information.
 
-Analysis project using real-world data, including data cleaning, exploration, visualization, and insights.
+The project is currently being prepared for a **public release** to gather feedback and see whether it provides real value to users.
 
-**Tools:** `Excel` `SQL` `Python` `Power BI`
+**Current goals:**
+
+- Make information easier to understand
+- Provide useful summaries
+- Keep content organized and accessible
+- Collect real user feedback
+- Improve the project based on actual usage
+
+> Public release coming soon.
 
 ---
 
-### 💰 Etzan Mali
+## 📊 Data Analytics Projects
 
-Personal finance application designed for users in Saudi Arabia.
+I'm currently building my Data Analytics portfolio.
 
-**Technologies:**
+Upcoming projects will include:
 
-`React Native` `Expo` `TypeScript` `SQLite` `Supabase`
-
-Features include:
-
-* Income & expense tracking
-* Local SQLite database
-* Cloud synchronization
-* CSV / JSON export
-* Arabic RTL interface
-* AI-powered financial assistant
+- Data cleaning
+- Exploratory data analysis
+- SQL analysis
+- Excel analysis
+- Power BI dashboards
+- Data visualization
+- Business insights
 
 ---
 
@@ -113,11 +123,10 @@ Features include:
     src="https://github-readme-stats.vercel.app/api?username=NBRHCS&show_icons=true&hide_border=true"
   />
 
-<img
- width="48%"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=NBRHCS&layout=compact&hide_border=true"
-/>
-
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NBRHCS&layout=compact&hide_border=true"
+  />
 </p>
 
 ---
@@ -130,23 +139,17 @@ Features include:
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NBRHCS/NBRHCS/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🎯 2026 Goals
 
-* [ ] Complete Google Data Analytics Professional Certificate
-* [ ] Build strong Data Analytics portfolio projects
-* [ ] Improve SQL skills
-* [ ] Improve Python for Data Analysis
-* [ ] Build Power BI dashboards
-* [ ] Become more active on GitHub
-* [ ] Prepare for my first Data Analyst role
+- [ ] Complete Google Data Analytics Professional Certificate
+- [ ] Launch Nawah publicly
+- [ ] Collect feedback from real users
+- [ ] Build Data Analytics portfolio projects
+- [ ] Improve SQL skills
+- [ ] Improve Python for Data Analysis
+- [ ] Build Power BI dashboards
+- [ ] Become more active on GitHub
+- [ ] Prepare for my first Data Analyst role
 
 ---
 
@@ -167,5 +170,5 @@ Features include:
 ---
 
 <p align="center">
-  <i>“Learning, building, analyzing, and improving one step at a time.”</i>
+  <i>Learning, building, analyzing, and improving one step at a time.</i>
 </p>
