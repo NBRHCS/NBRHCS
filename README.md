@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muath Alharthi</h1>
 
+<img width="2172" height="724" alt="8adee994-f17d-4c24-8692-07ff378d94e2" src="https://github.com/user-attachments/assets/e417c9fc-7d92-480c-89be-a5e6b5a1924f" />
+
 <h3 align="center">
 Computer Science Student | Aspiring Data Analyst
 </h3>
